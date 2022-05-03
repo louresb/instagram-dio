@@ -1,7 +1,7 @@
 # Instagram homepage recreation 
 
 In this project I recreated the Instagram login page.
-I learned to use CSS with Flexbox, positioning elements in different positions and orientations on the page. I also practiced creating media queries for responsiveness. 
+I learned to use CSS with Flexbox, positioning elements in different orientations and alignments on the page. I also practiced creating media queries for responsiveness. 
 
 ### Modificações:
 

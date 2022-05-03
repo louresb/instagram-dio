@@ -9,4 +9,7 @@ I learned to use CSS with Flexbox, positioning elements in different orientation
 * I used Figma to create a mobile mockup with my own Instagram
 
 
+\* It is not a totally identical clone, it was made for study purposes only.
+
+
 ## 🚀 Let's code! 🚀

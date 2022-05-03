@@ -5,8 +5,8 @@ I learned to use CSS with Flexbox, positioning elements in different orientation
 
 ### Changes:
 
-* Developed the page entirely in English
-* I used Figma to create a mobile mockup with my own Instagram
+* I developed the page entirely in English
+* Mobile mockup with my own Instagram using Figma
 
 
 \* It is not a totally identical clone, it was made for study purposes only.

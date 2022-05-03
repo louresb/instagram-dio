@@ -1,10 +1,12 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Recriando a página inicial do Instagram 
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Nesse projeto recriei a página de login do Instagram. 
+Aprendi a utilizar o CSS com Flexbox, posicionando elementos em diferentes posições e orientações na página. Também pratiquei a criação de media queries para que houvesse responsividade. 
 
-### Os requisitos são:
+### Modificações:
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* Desenvolvi a página em totalmente em inglês
+* Utilizei o Figma para criar um mockup de celular com o meu próprio Instagram
+
 
 ## 🚀 Let's code! 🚀

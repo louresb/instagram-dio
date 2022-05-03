@@ -1,12 +1,12 @@
-# Recriando a página inicial do Instagram 
+# Instagram homepage recreation 
 
-Nesse projeto recriei a página de login do Instagram. 
-Aprendi a utilizar o CSS com Flexbox, posicionando elementos em diferentes posições e orientações na página. Também pratiquei a criação de media queries para que houvesse responsividade. 
+In this project I recreated the Instagram login page.
+I learned to use CSS with Flexbox, positioning elements in different positions and orientations on the page. I also practiced creating media queries for responsiveness. 
 
 ### Modificações:
 
-* Desenvolvi a página em totalmente em inglês
-* Utilizei o Figma para criar um mockup de celular com o meu próprio Instagram
+* Developed the page entirely in English
+* I used Figma to create a mobile mockup with my own Instagram
 
 
 ## 🚀 Let's code! 🚀
